@@ -50,5 +50,11 @@ foo@bar:~$ python custom_qr.py
 ```
 
 
+Results,
+
+![No QR Code. Webcam window](https://raw.githubusercontent.com/meticulousCraftman/QR-Code/master/images/img1.png)
+
+![QR Code Scanning](https://raw.githubusercontent.com/meticulousCraftman/QR-Code/master/images/img2.png)
+
 ## Reference
 You can find a complete tutorial on this [here](https://www.pyimagesearch.com/2018/05/21/an-opencv-barcode-and-qr-code-scanner-with-zbar/).
